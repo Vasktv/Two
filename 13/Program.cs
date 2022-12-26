@@ -7,7 +7,7 @@ int firstnumber = number /100;
 
 if (firstnumber == 0)
 {
-System.Console.WriteLine("Ваше не трехзначное");
+System.Console.WriteLine("Ваше число не является техзначным.");
 }
 
 else
