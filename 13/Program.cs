@@ -11,7 +11,7 @@ System.Console.WriteLine("Ваше число не является техзна
 return;
 }
 
-while (number > 999)
+while (number >= 999)
 {
   number /= 10;
 }
